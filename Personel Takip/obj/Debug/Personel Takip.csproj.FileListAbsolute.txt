@@ -1,0 +1,35 @@
+D:\Yazılım Projeler\Personel Takip\Personel Takip\bin\Debug\Personel Takip.exe.config
+D:\Yazılım Projeler\Personel Takip\Personel Takip\bin\Debug\Personel Takip.exe
+D:\Yazılım Projeler\Personel Takip\Personel Takip\bin\Debug\Personel Takip.pdb
+D:\Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csprojAssemblyReference.cache
+D:\Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Form1.resources
+D:\Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Properties.Resources.resources
+D:\Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csproj.GenerateResource.cache
+D:\Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csproj.CoreCompileInputs.cache
+D:\Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel Takip.exe
+D:\Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel Takip.pdb
+D:\Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Form2.resources
+D:\Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Form3.resources
+D:\012-Yazılım Projeler\Personel Takip\Personel Takip\bin\Debug\Personel Takip.exe.config
+D:\012-Yazılım Projeler\Personel Takip\Personel Takip\bin\Debug\Personel Takip.exe
+D:\012-Yazılım Projeler\Personel Takip\Personel Takip\bin\Debug\Personel Takip.pdb
+D:\012-Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csprojAssemblyReference.cache
+D:\012-Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Form1.resources
+D:\012-Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Form2.resources
+D:\012-Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Form3.resources
+D:\012-Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Properties.Resources.resources
+D:\012-Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csproj.GenerateResource.cache
+D:\012-Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel Takip.exe
+D:\012-Yazılım Projeler\Personel Takip\Personel Takip\obj\Debug\Personel Takip.pdb
+C:\Users\ESK\Desktop\Personel Takip\Personel Takip\bin\Debug\Personel Takip.exe.config
+C:\Users\ESK\Desktop\Personel Takip\Personel Takip\bin\Debug\Personel Takip.exe
+C:\Users\ESK\Desktop\Personel Takip\Personel Takip\bin\Debug\Personel Takip.pdb
+C:\Users\ESK\Desktop\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csproj.AssemblyReference.cache
+C:\Users\ESK\Desktop\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Form1.resources
+C:\Users\ESK\Desktop\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Form2.resources
+C:\Users\ESK\Desktop\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Form3.resources
+C:\Users\ESK\Desktop\Personel Takip\Personel Takip\obj\Debug\Personel_Takip.Properties.Resources.resources
+C:\Users\ESK\Desktop\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csproj.GenerateResource.cache
+C:\Users\ESK\Desktop\Personel Takip\Personel Takip\obj\Debug\Personel Takip.csproj.CoreCompileInputs.cache
+C:\Users\ESK\Desktop\Personel Takip\Personel Takip\obj\Debug\Personel Takip.exe
+C:\Users\ESK\Desktop\Personel Takip\Personel Takip\obj\Debug\Personel Takip.pdb
